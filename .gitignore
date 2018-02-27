@@ -1,0 +1,9 @@
+# Build directory
+build/
+
+# Temporary files
+*.swp
+*.log
+*.bak
+*.out
+*.cap
